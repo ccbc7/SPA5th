@@ -1,0 +1,31 @@
+# プロバイダープラグイン
+.terraform/
+# システム固有のファイル
+.DS_Store
+Thumbs.db
+
+# Ruby on Rails
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+/config/master.key
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/public/assets
+/public/packs
+/public/packs-test
+/vendor/bundle
+/.bundle
+.yarn-cache
+
+# next.js
+/node_modules
+/dist
+.env*
+/public/vercel.svg
+/public/next.svg
+
+# その他一般的な項目
+.idea/
+.vscode/
