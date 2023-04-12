@@ -3,7 +3,7 @@ name: Pull Request Workflow
 on:
   pull_request:
     branches:
-      - master # 任意のブランチ名に変更できます。
+      - develop # 任意のブランチ名に変更できます。
 
 jobs:
   build-and-test:
