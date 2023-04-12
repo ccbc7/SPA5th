@@ -10,8 +10,8 @@ Thumbs.db
 !/log/.keep
 !/tmp/.keep
 /config/master.key
-/db/*.sqlite3
-/db/*.sqlite3-journal
+/db/*.postgresql
+/db/*.postgresql-journal
 /public/assets
 /public/packs
 /public/packs-test
