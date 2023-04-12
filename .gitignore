@@ -23,8 +23,8 @@ Thumbs.db
 /node_modules
 /dist
 .env*
-/public/vercel.svg
-/public/next.svg
+frontend/public/vercel.svg
+frontend/public/next.svg
 
 # その他一般的な項目
 .idea/
